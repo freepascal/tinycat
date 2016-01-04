@@ -1,7 +1,8 @@
 # Tinycat
 A Tomcat/Java build tool written in Java
+```
 _This tool generates .class files from .java files. I use it for my Tomcat projects._
-
+```
 ##Usage
 ```
 Syntax: java -jar {filename.jar} -sourcedir [src] -classdir [classes]
