@@ -9,3 +9,8 @@ For instance:
 ```
 java -jar javautil.jar -sourcedir /home/{user}/src -classdir /home/{user}/classes
 ```
+#Compile using Gradle
+```
+cd tinycat
+gradle build
+```
