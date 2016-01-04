@@ -1,7 +1,7 @@
 # Tinycat
 A Tomcat/Java build tool written in Java
 
-#Usage
+##Usage
 ```
 Syntax: java -jar {filename.jar} -sourcedir [src] -classdir [classes]
 ```
@@ -9,7 +9,7 @@ For instance:
 ```
 java -jar javautil.jar -sourcedir /home/{user}/src -classdir /home/{user}/classes
 ```
-#Compile using Gradle
+##How to compile using Gradle
 ```
 cd tinycat
 gradle build
